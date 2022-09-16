@@ -1,0 +1,22 @@
+.navbar{
+    list-style-type: none;
+    text-decoration-style: none;
+    background-color: #04151f;
+    &__li{
+        display: inline-block;
+        text-decoration-style: none;
+        padding: 10px;
+        justify-items: center;
+    }
+    a{
+        text-decoration: none;
+        color: aliceblue;
+    }
+}
+.titulo{
+    background-color: #04151f;
+    &__f{
+        background-color: #499f68;
+    }
+    
+}
